@@ -1,3 +1,11 @@
+# Desplegado en firebaseapp.com
+
+https://my-heroes-aeb13.firebaseapp.com
+
+# Desplegado en web.app
+
+https://my-heroes-aeb13.web.app
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
