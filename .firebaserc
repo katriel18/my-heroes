@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-heroes-aeb13": {
+      "hosting": {
+        "angular-tour-of-heroes": [
+          "my-heroes-aeb13"
+        ]
+      }
+    }
+  }
+}
